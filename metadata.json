@@ -1,0 +1,8 @@
+{
+  "name": "AegisSky Tactical C-UAS",
+  "description": "Anti-drone counter-UAS software with real-time computer vision detection, tactical grid tracking, AI threat analytics, and automated security personnel neutralization dispatch.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
